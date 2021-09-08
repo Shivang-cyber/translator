@@ -1,6 +1,8 @@
+var b = document.getElementById('OUT')
+
+
 async function tra() {
  var a = document.getElementById('IN').value
- var b = document.getElementById('OUT')
 
  var aFR = document.getElementById('F-s').value
  var bTO = document.getElementById('T-s').value
